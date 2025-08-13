@@ -1,4 +1,4 @@
-# Socialmedia_DepressionandNondepressive_Imageandtext_data_English_language
+# Socialmedia Depression and Nondepressive Image and text data English language
 
 **This dataset has been created based on English language, Overall a total 13,000 posts, including text, emoticons, and images, were collected from publicaly available social media platforms, out of which 6863 posts were depressive and 6137 were non-depressive.**
 
